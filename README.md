@@ -1,5 +1,5 @@
 # Jarvis-Free-Smarter-Siri
-Jarvis is a free shortcut for your iPhone or iPad that allows your Siri to get a lot smarter. It uses Gemini API keys and a model you can set up customly to connect it to the web and search, and you never get "I don't know" from Siri ever again. 
+Jarvis is a free shortcut for your iPhone or iPad that wont be geting siri ai that allows your Siri to get a lot smarter. It uses Gemini API keys and a model you can set up customly to connect it to the web and search, and you never get "I don't know" from Siri ever again. 
 
 Jarvis connects. You got to set up Jarvis. When you import the shortcut, you will get some questions, such as API key or model name. You can find and get a free API key from here:https://aistudio.google.com/api-keysYou just need a Google account, and for the model name, you can choose the preset. 
 
